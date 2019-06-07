@@ -81,7 +81,7 @@ function createRock(x) {
      * the GAME, we want to move it again.
      */
      
-     if () {
+     if (top < GAME_HEIGHT) {
        
      }
 
