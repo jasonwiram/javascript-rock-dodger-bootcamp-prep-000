@@ -72,7 +72,7 @@ function createRock(x) {
      * we should call endGame()
      */
      
-     if(checkCollision(rock)) {
+     if (checkCollision(rock)) {
        endGame();
      }
 
@@ -80,11 +80,19 @@ function createRock(x) {
      * Otherwise, if the rock hasn't reached the bottom of
      * the GAME, we want to move it again.
      */
+     
+     if () {
+       
+     }
 
     /**
      * But if the rock *has* reached the bottom of the GAME,
      * we should remove the rock from the DOM
      */
+     
+     if () {
+       
+     }
   }
 
   // We should kick of the animation of the rock around here
